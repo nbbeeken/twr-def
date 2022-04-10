@@ -1,0 +1,16 @@
+{
+	"cSpell.words": ["browserslist", "pixi"],
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"[json][jsonc][html][css]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript][javascript]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint",
+		"editor.codeActionsOnSave": {
+			"source.organizeImports": true
+		}
+	}
+}
